@@ -1,22 +1,6 @@
-#include <errno.h>
-#include <jni.h>
-#include <sys/time.h>
-#include <time.h>
 #include <android/log.h>
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <float.h>
 #include <queue>
-#include <pthread.h>
-
-#include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-#include <opencv2/highgui/highgui.hpp>
-#include <opencv2/calib3d/calib3d.hpp>
-
-#include <opencv2/core/gpumat.hpp>
 
 #include "mainActivity.h"
 
