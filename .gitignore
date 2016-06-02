@@ -4,7 +4,8 @@
 .cproject
 .settings
 project.properties
-bin/
+bin/*
+!bin/MyOpenCVSkeleton.apk
 gen/
 obj/
 libs/
